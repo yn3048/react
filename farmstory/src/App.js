@@ -6,7 +6,7 @@ import root from "./router/root";
 
 /*
   날짜 : 2024/05/08
-  이름 : 조영흥
+  이름 : 이예나
   내용 : 리액트 팜스토리 실습
 
   npm install react-router-dom
